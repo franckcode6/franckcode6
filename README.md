@@ -1,5 +1,5 @@
-<h1 align="left">Salut, moi c'est Franck! 🤓</h1>
-<h3 align="left">Développeur junior Java EE</h3>
+<h1 align="center">Salut, moi c'est Franck! 🤓</h1>
+<h3 align="center">Développeur junior Java EE</h3>
 
 - ☕ Actuellement je suis en formation POEC Java EE à Human Booster.
 
