@@ -1,7 +1,7 @@
 <h1 align="center">Salut, moi c'est Franck 🤖</h1>
 <h3 align="center">Développeur Java EE junior</h3>
 
-- ☕ Actuellement en formation POEC Java EE à Human Booster.
+- ☕ Je viens de terminer une formation POEC Java EE à Human Booster.
 
 - 👨‍🎓 Je suis diplomé d'un titre RNCP niveau 5 (BTS) de développeur Web et Web Mobile.
 
